@@ -23,7 +23,7 @@ This project predicts student marks using Linear Regression.
 
 ### Prediction Graph
 
-![Prediction Graph](output.png)
+![Prediction Graph](Actual%20vs%20Predicted%20graph.png)
 
 ## How to Run
 
