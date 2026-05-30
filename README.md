@@ -18,6 +18,12 @@ This project predicts student marks using Linear Regression.
 - NumPy
 - Scikit-learn
 - Matplotlib
+- 
+## Output
+
+### Prediction Graph
+
+![Prediction Graph](output.png)
 
 ## How to Run
 
